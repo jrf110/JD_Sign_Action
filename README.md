@@ -25,6 +25,7 @@
 
 
 ## 使用用法
+ddddd
 * 点击右上角 `Fork` 项目；
 * `Settings` -> `Secrets` 中添加京东Cookie、Server酱SCKEY；
 	- `JD_COOKIE`：账号1Cookie
